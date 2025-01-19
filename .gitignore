@@ -1,0 +1,8 @@
+.env
+__pycache__/
+shopify_langchain_testing_vectorstore/
+products.json
+test.ipynb
+venv/
+
+
